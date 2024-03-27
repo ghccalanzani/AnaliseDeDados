@@ -1,3 +1,3 @@
 # Análise de Dados
 
-Arquivos referentes a matéria de Análise de Dados do curso de Ciência da Computação na Faesa
+Projetos realizando análise de dados utilizando pyplot e scikit-learn.
